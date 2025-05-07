@@ -16,8 +16,8 @@
 - Building real-time AI solutions on **AWS**
 - Developing chatbots, financial safety tools, and scalable ML systems  
 - Optimizing cloud infrastructure for **cost-efficiency and performance**
-
-🔭 Currently working on: [LLM Integration for Financial Services](https://github.com/Lakshr1/LLM-Integration-for-Financial-Services)  
+<!--
+🔭 Currently working on: [LLM Integration for Financial Services](https://github.com/Lakshr1/LLM-Integration-for-Financial-Services)  -->
 📫 Reach me at: **raolakshrajsingh@gmail.com**
 
 ---
