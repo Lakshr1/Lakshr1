@@ -1,61 +1,61 @@
-# 👋 Hi, I'm Lakshraj Singh Rao
+<h1 align="center">Hi 👋, I'm Lakshraj</h1>
+<h3 align="center">Data Scientist | AI/ML/DS Enthusiast | Cloud-Native Developer</h3>
 
-🚀 AI/ML Engineer | LLMs | Cloud-Native Developer | AWS | Python
-
-I'm a passionate and results-driven AI/ML professional with experience in deploying and optimizing large language models (LLMs) in real-world systems—especially within financial services. I love building scalable ML systems, working with cloud-native tools, and solving meaningful problems through AI.
-
----
-
-## 💼 What I Do
-
-- 🔍 **LLM Integration & Optimization**: Fine-tuning LLMs with RLHF & SFT to improve performance in production.
-- ☁️ **Cloud Engineering**: Building cost-efficient, scalable AI services on AWS using Lambda, EC2, Lex, and more.
-- 🤖 **AI for Real-World Impact**: Created ML-driven safety tools and financial AI agents that are in real use today.
-- 🛠️ **DevOps & Automation**: Emphasize CI/CD, containerization (Docker), and serverless architecture.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lakshr1&theme=gruvbox" alt="lakshr1" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Tech Stack
+### 👨‍💻 About Me
 
-**Languages:** Python, JavaScript, Go (basic)  
-**AI/ML:** PyTorch, TensorFlow, RLHF, SFT, NLP  
-**Cloud & DevOps:** AWS (Lambda, EC2, S3, Lex), Docker, Kubernetes, CI/CD  
-**Databases & APIs:** MongoDB, MySQL, REST APIs  
-**Practices:** Secure Coding, Unit Testing, Agile  
+🚀 I'm a Data Scientist and AI/ML Engineer with hands-on experience in:
+- Fine-tuning and deploying LLMs with **RLHF/SFT**
+- Building real-time AI solutions on **AWS**
+- Developing chatbots, financial safety tools, and scalable ML systems  
+- Optimizing cloud infrastructure for **cost-efficiency and performance**
 
----
-
-## 📌 Featured Projects
-
-### 💬 [LLM Chatbots for Financial Services](#)
-LLM-based customer support bots with a 25% error reduction and 15% boost in satisfaction.
-
-### 🛡️ [Saathi – AI-Powered Financial Safety App](#)
-Real-time route optimization + crime prediction for banking staff, reducing incidents by 30%.
+🔭 Currently working on: [LLM Integration for Financial Services](https://github.com/Lakshr1/LLM-Integration-for-Financial-Services)  
+📫 Reach me at: **raolakshrajsingh@gmail.com**
 
 ---
 
-## 📈 Work Experience
+### 🧰 Languages and Tools
 
-- **Delivery Data Scientist @ Turing**  
-  Fine-tuned LLMs, cut API response times by 30%, and increased real-time response accuracy by 75%.
-
-- **AI/ML & Cloud Engineer @ AICTE**  
-  Designed scalable cloud AI systems; deployed secure chatbots; achieved cost savings & improved availability.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
 
-## 📚 Certifications
+### 🌐 Connect with Me
 
-- ML Specialization – Stanford University (Andrew Ng)  
-- Java Programming – Duke University  
-- AWS Cloud Operations – AWS Academy Graduate  
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshrajr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+### 📊 GitHub Stats
 
-[📫 Email](mailto:raolakshrajsingh@gmail.com) | [🔗 LinkedIn](#) | [💻 GitHub](https://github.com/lakshrajsinghrao)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshr1&show_icons=true&locale=en&layout=compact" alt="lakshr1" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshr1&show_icons=true&locale=en" alt="lakshr1" /></p>
 
 ---
 
