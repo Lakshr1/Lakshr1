@@ -18,6 +18,8 @@
 - Optimizing cloud infrastructure for **cost-efficiency and performance**
 <!--
 🔭 Currently working on: [LLM Integration for Financial Services](https://github.com/Lakshr1/LLM-Integration-for-Financial-Services)  -->
+
+🔭 Live Project: [Automated Plant Pathology via Deep Convolutional Neural Networks](https://plant-disease-detection-lakshr1.streamlit.app/)
 📫 Reach me at: **raolakshrajsingh@gmail.com**
 
 ---
