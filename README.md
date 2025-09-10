@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshraj</h1>
 <h3 align="center">Data Scientist | AI/ML/DS Enthusiast | Cloud-Native Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshr1&theme=gruvbox" alt="lakshr1" />
-  </a>
-</p>
 
 ---
 
